@@ -9,8 +9,5 @@
  <project path="hardware/xiaomi" name="PixelExperience/hardware_xiaomi.git" remote="github" revision="twelve" />
  
  <!-- FIXES -->
- rm -r /home/cirrus/roms/PixelExperience-twelve/hardware/qcom-caf/sdm845/media
- <project path="hardware/qcom-caf/sdm845/media" name="ArrowOS/android_hardware_qcom_media.git" remote="github" revision="arrow-11.0-caf-sdm845" />
-
  
 </manifest>
