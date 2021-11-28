@@ -6,6 +6,10 @@
  <project path="device/xiaomi/sdm845-common" name="Jopii/perseus_android12_trees.git" remote="github" revision="pixel-common" />
  <project path="vendor/xiaomi" name="Jopii/perseus_android12_vendor.git" remote="github" revision="master" />
  <project path="kernel/xiaomi/sdm845" name="sergej3/android_kernel_xiaomi_sdm845.git" remote="github" revision="arrow-11.0" />
- <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi.git" remote="github" revision="lineage-19.0" />
+ <project path="hardware/xiaomi" name="PixelExperience/hardware_xiaomi.git" remote="github" revision="twelve" />
+ 
+ <!-- FIXES -->
+ <project path="hardware/qcom-caf/sdm845" name="ArrowOS/android_hardware_qcom_media.git" remote="github" revision="arrow-11.0-caf-sdm845" />
+
  
 </manifest>
