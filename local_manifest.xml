@@ -11,5 +11,7 @@
  <!-- FIXES -->
  <remove-project name="hardware_qcom-caf_sdm845_media"/>
  <project path="hardware/qcom-caf/sdm845/media" name="ArrowOS/android_hardware_qcom_media.git" remote="github" revision="arrow-11.0-caf-sdm845" />
+ <remove-project name="system_sepolicy_private_property_context"/>
+ <project path="system/sepolicy" name="Jopii/system_sepolicy.git" remote="github" revision="twelve" />
  
 </manifest>
