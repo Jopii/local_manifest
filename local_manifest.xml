@@ -17,7 +17,7 @@
  
  <remove-project name="vendor/aosp/bootanimation/bootanimation_1080.zip"/>
  <remove-project name="vendor/aosp/overlay/common/frameworks/base/core/res/res/drawable-nodpi/default-wallpaper.png"/>
- <remove-project name="frameworks_base_core_java_com_android_internal_util_custom_PixelPropsUtils.java"/>
+ <remove-project name="frameworks/base/core/java/com/android/internal/util/custom/PixelPropsUtils.java"/>
  <project path="vendor/aosp/" name="Jopii/vendor_aosp.git" remote="github" revision="main" />
  <project path="frameworks/base/" name="Jopii/frameworks_base.git" remote="github" revision="main" />
 
