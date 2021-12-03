@@ -17,7 +17,7 @@
  
  <remove-project name="vendor_aosp"/>
  <remove-project name="frameworks_base"/>
- <project path="vendor/aosp/" name="Jopii/vendor_aosp-1" remote="github" revision="main" />
+ <project path="vendor/aosp/" name="Jopii/vendor_aosp-1" remote="github" revision="twelve" />
  <project path="frameworks/base/core/java/com/android/internal/util/custom/" name="Jopii/frameworks_base-1" remote="github" revision="twelve" />
 
 </manifest>
