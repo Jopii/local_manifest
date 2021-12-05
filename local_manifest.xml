@@ -17,5 +17,8 @@
  
  <remove-project name="vendor_aosp"/>
  <project path="vendor/aosp/" name="Jopii/vendor_aosp-1" remote="github" revision="twelve" />
+ 
+ <remove-project name="frameworks_base"/>
+ <project path="frameworks/base" name="Jopii/frameworks_base-1" remote="github" revision="twelve" />
 
 </manifest>
