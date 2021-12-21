@@ -2,8 +2,8 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/perseus" name="Jopii/perseus_android12_trees.git" remote="github" revision="pixel-tree" />
- <project path="device/xiaomi/sdm845-common" name="Jopii/perseus_android12_trees.git" remote="github" revision="pixel-common" />
+ <project path="device/xiaomi/perseus" name="Jopii/perseus_android12_trees_1.git" remote="github" revision="pixel-tree" />
+ <project path="device/xiaomi/sdm845-common" name="Jopii/perseus_android12_trees_1.git" remote="github" revision="pixel-common" />
  <project path="vendor/xiaomi" name="Jopii/perseus_android12_vendor.git" remote="github" revision="master" />
  <project path="kernel/xiaomi/sdm845" name="sergej3/android_kernel_xiaomi_sdm845.git" remote="github" revision="arrow-11.0" />
  <project path="hardware/xiaomi" name="PixelExperience/hardware_xiaomi.git" remote="github" revision="twelve" />
