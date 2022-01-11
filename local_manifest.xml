@@ -15,7 +15,7 @@
  <remove-project name="system_sepolicy"/>
  <project path="system/sepolicy" name="Jopii/system_sepolicy.git" remote="github" revision="twelve" />
  
- <remove-project name="frameworks_base"/>
- <project path="frameworks/base" name="Jopii/frameworks_base-1" remote="github" revision="twelve" />
+ <!--remove-project name="frameworks_base"/>
+ <project path="frameworks/base" name="Jopii/frameworks_base-1" remote="github" revision="twelve" /-->
 
 </manifest>
