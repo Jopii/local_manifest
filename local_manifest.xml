@@ -4,7 +4,7 @@
  <!-- Trees -->
  <project path="device/xiaomi/perseus" name="Jopii/a12_perseus_tree.git" remote="github" revision="pixelexperience" />
  <project path="device/xiaomi/sdm845-common" name="Jopii/a12_perseus_tree.git" remote="github" revision="common" />
- <project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="git" revision="staging" />
+ <project path="vendor/xiaomi" name="lolipuru/proprietary_vendor_xiaomi.git" remote="github" revision="staging" />
  <project path="kernel/xiaomi/sdm845" name="sergej3/android_kernel_xiaomi_sdm845.git" remote="github" revision="arrow-11.0" />
  <project path="hardware/xiaomi" name="PixelExperience/hardware_xiaomi.git" remote="github" revision="twelve" />
  
